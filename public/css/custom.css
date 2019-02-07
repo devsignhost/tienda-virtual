@@ -1,0 +1,43 @@
+
+.present{
+	width: 100%;
+	background-image: url('/image/home/bg_image.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+}
+
+.content-left{
+	margin-left: 50px;
+	height: 490px;
+	display: flex;
+	align-items: center;
+	width: 50%;
+	position: relative;
+}
+
+.content-left h1,h2{
+	color:white;
+}
+.search{
+	position: relative;
+	top: -20px;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.search .form-search{
+	display: flex;
+}
+.search .form-search input{
+	width: 450px;
+}
+.search .form-search button{
+	background-color: #3498db;
+	color:white;
+}
+
+.title-product{
+	font-weight: bold;
+	font-size: 15px;
+}
