@@ -3,10 +3,10 @@
 
 Sean Bienvenidos Todos a este Curso que se estará haciendo de laravel + Vue. Donde aprenderemos a crear una SPA.
 
-#Objetivos a alcanzar:
+# Objetivos a alcanzar:
 
 - Creacion del Front Con Laravel + Vue.
-- Creación de Panel de Usuario.
+- Creación de Panel de Usuario. 
 - Crear los Recurso para la APi en Usuario.
 - Crear recurso para las Categorias y sub categorias.
 - Modulo de Creación de Propducto a vender.
